@@ -1,0 +1,36 @@
+table{
+    margin: 36px auto;
+    border-collapse: collapse;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table td{
+    border-bottom:  1px solid;
+    padding: 12px;
+    font-size:  12px;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.courses{
+    background-color:  rgb(127, 195, 222);
+}
+.head{
+background-color: #2d8cbf;
+}
+.coursess{
+   background-color:  #cbcbcb;
+}
+.header{
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+}
+.progress{
+    background-color: yellow;
+}
+.centers{
+    margin: 20px auto;
+    text-align: center;
+    
+}
